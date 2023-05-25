@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9c26191edbd04d7ebf9d7972a6d6e27f" Name="Diagram1">
+        <EntityTypeShape EntityType="u23310Model.Category" Width="1.5" PointX="3" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="u23310Model.Orders" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="u23310Model.Points" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="u23310Model.Products" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="u23310Model.Roles" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="u23310Model.Struct_order" Width="1.5" PointX="7.5" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="u23310Model.sysdiagrams" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u23310Model.Users" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="u23310Model.FK__Products__id_cat__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="u23310Model.FK__Orders__id_point__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="u23310Model.FK__Orders__id_users__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="u23310Model.FK__Struct_or__id_or__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="u23310Model.FK__Struct_or__id_pr__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="u23310Model.FK__Users__id_role__38996AB5" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

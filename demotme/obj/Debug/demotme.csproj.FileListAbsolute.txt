@@ -1,0 +1,34 @@
+C:\Users\ryaby\source\repos\demotme\demotme\bin\Debug\demotme.exe.config
+C:\Users\ryaby\source\repos\demotme\demotme\bin\Debug\demotme.exe
+C:\Users\ryaby\source\repos\demotme\demotme\bin\Debug\demotme.pdb
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme.csproj.AssemblyReference.cache
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\Main_Polz.g.cs
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\App.g.cs
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme_MarkupCompile.cache
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme_MarkupCompile.lref
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\Main_Polz.baml
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme.g.resources
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme.Properties.Resources.resources
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme.csproj.GenerateResource.cache
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme.csproj.CoreCompileInputs.cache
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme.exe
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme.pdb
+C:\Users\ryaby\source\repos\demotme\demotme\bin\Debug\EntityFramework.dll
+C:\Users\ryaby\source\repos\demotme\demotme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ryaby\source\repos\demotme\demotme\bin\Debug\EntityFramework.xml
+C:\Users\ryaby\source\repos\demotme\demotme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ryaby\source\repos\demotme\demotme\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme_Content.g.cs
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme.csproj.CopyComplete
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\demotme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\CreateOrders.g.cs
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\CreateOrders.baml
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\Admin.g.cs
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\Auth.g.cs
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\Admin.baml
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\Auth.baml
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\Add.g.cs
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\Add.baml
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\EditProductWindow .g.cs
+C:\Users\ryaby\source\repos\demotme\demotme\obj\Debug\EditProductWindow .baml
